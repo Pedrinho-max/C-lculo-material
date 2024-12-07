@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculo de materiais</title>
@@ -46,6 +45,9 @@
                 <div id="resultado"></div>
             </div>
         </form> 
+    </div> id="parede-espera" class="opacity- invisible">
+        <img src="images/carregando.gif" alt="Carregando">
+        <p>Por favor, aguarde.</p>
     </div>
 </main>
 
